@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI CALCULATOR</string>
+    <string name="calcolatore_bmi">CALCOLATORE BMI</string>
+    <string name="peso_kg">peso(kg)</string>
+    <string name="altezza_cm">altezza(cm)</string>
+    <string name="_00">00</string>
+    <string name="__00">00</string>
+    <string name="calcola">CALCOLA BMI</string>
+    <string name="bmi">IL TUO BMI</string>
+    <string name="risultato">20.2</string>
+    <string name="prova">Obeso</string>
+    <string name="nuovo">CALCOLA NUOVO BMI</string>
+</resources>
